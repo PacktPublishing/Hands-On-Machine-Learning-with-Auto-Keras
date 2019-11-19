@@ -12,14 +12,14 @@ By the end of the course, you will be confident about using Auto-Keras to build 
 <DIV class>
 
 <UL>
-Visualize how Auto-Keras works by learning some of its best-performing architectures<br/>
-Achieve state-of-the-art Convolutional Neural Network performance in realistic scenarios and with very little development time<br/>
-Improve performance on text-based tasks involving classification and regression<br/>
-Obtain production-ready models with Auto-Keras on sentiment analysis tasks<br/>
-Leverage pre-trained models in Auto-Keras to save time by writing less code and by not doing any model training<br/>
-Generate your own datasets in order to estimate how well Auto-Keras performs in complex conditions<br/>
-Learn how to build and make predictions and your own data sets<br/>
-Learn the basics of deploying a model<br/>
+•Visualize how Auto-Keras works by learning some of its best-performing architectures<br/>
+•Achieve state-of-the-art Convolutional Neural Network performance in realistic scenarios and with very little development time<br/>
+•Improve performance on text-based tasks involving classification and regression<br/>
+•Obtain production-ready models with Auto-Keras on sentiment analysis tasks<br/>
+•Leverage pre-trained models in Auto-Keras to save time by writing less code and by not doing any model training<br/>
+•Generate your own datasets in order to estimate how well Auto-Keras performs in complex conditions<br/>
+•Learn how to build and make predictions and your own data sets<br/>
+•Learn the basics of deploying a model<br/>
 </LI></UL></DIV>
 
 ## Instructions and Navigation
@@ -42,7 +42,7 @@ Storage: 1TB HDD. <br/><br/>
 Software Requirements<br/><br/>
 Operating system: any with Python 3.6. <br/>
 Browser: any. <br/>
-Provide links/instructions so that the customer can easily find out where to download the required software. Follow the installation section here:
+Links/instructions so that the customer can easily find out where to download the required software. Follow the installation section here:
 https://autokeras.com/start/
 <br/><br/>
 
