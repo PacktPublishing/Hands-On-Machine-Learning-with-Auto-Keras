@@ -1,5 +1,6 @@
 # Hands-On Machine Learning with Auto-Keras [Video]
-This is the code repository for [Hands-On Machine Learning with Auto-Keras [Video]]( https://www.packtpub.com/data/hands-on-machine-learning-with-auto-keras-video published by [Packt](https://www.packtpub.com/?utm_source=github) . It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Hands-On Machine Learning with Auto-Keras [Video]]( https://www.packtpub.com/data/hands-on-machine-learning-with-auto-keras-video), published by [Packt](https://www.packtpub.com/?utm_source=github) . It contains all the supporting project files necessary to work through the video course from start to finish.
+
 ## About the Video Course	
 If you want to build efficient models using the open-source Auto-Keras library, then this course is perfect for you. It will teach you how to use Auto-Keras to build custom machine learning and AI models effectively, even with limited machine Learning knowledge. <br/>
 <br/>
